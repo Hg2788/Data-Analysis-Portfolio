@@ -6,6 +6,24 @@ This project analyzes factors affecting sleep quality using the Sleep Health and
 
 The goal is to identify key variables associated with sleep quality and visualize the findings through statistical analysis and dashboard development.
 
+## Project Information
+
+* **Type:** Team Project (3 Members)
+* **Period:** 2022.11.15 ~ 2022.12.06
+* **Competition:** Cheongju University Big Data Visualization Competition
+* **Award:** Grand Prize (최우수상)
+* **Team Members:** 함승민, 김태민, 이소현
+
+### My Role
+
+* Data Analysis using R
+* Statistical Analysis
+* Data Visualization
+
+### Additional Work
+
+After the competition, I practiced Tableau and created a dashboard using the same dataset.
+
 ---
 
 ## Dashboard
