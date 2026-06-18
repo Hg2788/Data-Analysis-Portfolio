@@ -48,9 +48,9 @@ https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 ### Correlation Analysis
 
-* Sleep Duration showed a strong positive correlation with Sleep Quality (r = 0.88)
-* Stress Level showed a strong negative correlation with Sleep Quality (r = -0.90)
-* Heart Rate showed a moderate negative correlation with Sleep Quality (r = -0.66)
+- Sleep Duration ↔ Sleep Quality (**r = 0.88**)
+- Stress Level ↔ Sleep Quality (**r = -0.90**)
+- Heart Rate ↔ Sleep Quality (**r = -0.66**)
 
 ### Regression Analysis
 
