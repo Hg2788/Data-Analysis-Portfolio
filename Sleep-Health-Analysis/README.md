@@ -12,7 +12,7 @@ The goal is to identify key variables associated with sleep quality and visualiz
 * **Period:** 2022.11.15 ~ 2022.12.06
 * **Competition:** Cheongju University Big Data Visualization Competition
 * **Award:** Grand Prize (최우수상)
-* **Team Members:** 함승민, 김태민, 이소현
+* **Team Members:** 함승민, 김태민, 이재헌
 
 ### My Role
 
