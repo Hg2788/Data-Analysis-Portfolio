@@ -76,8 +76,8 @@ The most influential factors affecting sleep quality were:
 
 1. Stress Level
 2. Age
-3. Sleep Duration
-4. Physical Activity Level
+3. BMI Category (Overweight)
+4. Sleep Duration
 
 Stress Level had the strongest negative effect on sleep quality.
 
