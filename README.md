@@ -33,7 +33,7 @@ Analysis of factors affecting sleep quality using the Sleep Health and Lifestyle
 
 🔗 [Project README](./Sleep-Health-Analysis/README.md)
 
-📄 [Japanese Report](./Sleep-Health-Analysis/report/Sleep_Health_Analysis_Report_JP.pdf)
+📄 [Japanese Report](./Sleep-Health-Analysis/report/Sleep Health Analysis_Japanese Report.pdf)
 
 ---
 
