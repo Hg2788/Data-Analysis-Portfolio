@@ -12,6 +12,7 @@ This repository contains data analysis projects using R, Python, SQL, and Tablea
 * Python
 * SQL
 * Tableau
+* Data Visualization
 * Statistical Analysis
 
 ---
