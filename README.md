@@ -1,19 +1,45 @@
-# Data-Analysis-Portfolio
+# Data Analysis Portfolio
 
-데이터 분석가 취업을 목표로 진행한 프로젝트 포트폴리오입니다.
+Welcome to my Data Analysis Portfolio.
+
+This repository contains data analysis projects using R, Python, SQL, and Tableau.
+
+---
 
 ## Skills
 
-- R
-- Tableau
-- Python
-- SQL
+* R
+* Python
+* SQL
+* Tableau
+* Statistical Analysis
+
+---
 
 ## Projects
 
-### Sleep Health Analysis
+### 💤 Sleep Health Analysis
 
-Sleep Health Dataset을 활용한 데이터 분석 프로젝트
+Analysis of factors affecting sleep quality using the Sleep Health and Lifestyle Dataset.
 
-- Tool : R, Tableau
-- Status : In Progress
+**Tools:** R, Tableau
+
+**Highlights**
+
+* Correlation Analysis
+* Multiple Linear Regression
+* Variable Importance Analysis
+* Tableau Dashboard
+
+🔗 [Project README](./Sleep-Health-Analysis/README.md)
+
+📄 [Japanese Report](./Sleep-Health-Analysis/report/Sleep_Health_Analysis_Report_JP.pdf)
+
+---
+
+### 🚧 Upcoming Projects
+
+* SQL Data Analysis Project
+* Python Data Analysis Project
+
+More projects will be added soon.
