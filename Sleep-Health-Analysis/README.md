@@ -11,8 +11,8 @@ The goal is to identify key variables associated with sleep quality and visualiz
 * **Type:** Team Project (3 Members)
 * **Period:** 2022.11.15 ~ 2022.12.06
 * **Competition:** Cheongju University Big Data Visualization Competition
-* **Award:** Grand Prize (최우수상)
-* **Team Members:** 함승민, 김태민, 이재헌
+* **Award:** Grand Prize (1st Place)
+* **Team Members:** 3 Members
 
 ### My Role
 
@@ -50,7 +50,7 @@ After the competition, I practiced Tableau and created a dashboard using the sam
 
 Sleep Health and Lifestyle Dataset
 
-https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+[Kaggle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 ### Dataset Summary
 
@@ -89,12 +89,11 @@ Stress Level had the strongest negative effect on sleep quality.
 
 ## Analysis Process
 
-1. Data Cleaning and Exploration
-2. Exploratory Data Analysis (EDA)
-3. Correlation Analysis
-4. Multiple Linear Regression
-5. Variable Importance Analysis
-6. Tableau Dashboard Development
+1. Exploratory Data Analysis (EDA)
+2. Correlation Analysis
+3. Multiple Linear Regression
+4. Variable Importance Analysis
+5. Tableau Dashboard Development
 
 ---
 
@@ -105,3 +104,9 @@ Stress Level had the strongest negative effect on sleep quality.
 - Packages: tidyverse, corrplot, car, lm.beta
 
 ---
+
+## Project Report
+
+📄 Japanese Report
+
+[View Report](report/Sleep_Health_Analysis_Report_JP.pdf)
