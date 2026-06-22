@@ -41,6 +41,5 @@ Analysis of factors affecting sleep quality using the Sleep Health and Lifestyle
 ### 🚧 Upcoming Projects
 
 * SQL Data Analysis Project
-* Python Data Analysis Project
 
 More projects will be added soon.
