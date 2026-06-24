@@ -36,9 +36,9 @@ Analysis of factors affecting sleep quality using the Sleep Health and Lifestyle
 
 📄 [Japanese Report](./Sleep-Health-Analysis/report/Sleep%20Health%20Analysis_Japanese%20Report.pdf)
 
----
+<br>
 
-## 🛒 Brazilian E-commerce Repeat Customer Analysis
+### 🛒 Brazilian E-commerce Repeat Customer Analysis
 
 Analysis of repeat customer behavior using the Brazilian E-commerce Olist Dataset.
 
