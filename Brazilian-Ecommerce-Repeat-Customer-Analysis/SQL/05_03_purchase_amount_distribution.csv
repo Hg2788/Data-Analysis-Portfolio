@@ -1,0 +1,11 @@
+purchase_amount_range,customer_type,customer_count,percentage
+"01. < 100","Repeat Customer",322,10.77
+"02. 100 - 199","Repeat Customer",979,32.75
+"03. 200 - 299","Repeat Customer",677,22.65
+"04. 300 - 499","Repeat Customer",622,20.81
+"05. 500+","Repeat Customer",389,13.01
+"01. < 100","One-time Customer",43802,47.39
+"02. 100 - 199","One-time Customer",29761,32.20
+"03. 200 - 299","One-time Customer",9217,9.97
+"04. 300 - 499","One-time Customer",5616,6.08
+"05. 500+","One-time Customer",4035,4.37

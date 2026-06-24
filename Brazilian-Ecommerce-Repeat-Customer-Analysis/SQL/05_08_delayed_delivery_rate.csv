@@ -1,0 +1,5 @@
+customer_type,delivery_status,order_count,percentage
+"Repeat Customer",Delayed,429,7.03
+"Repeat Customer","On Time",5670,92.97
+"One-time Customer",Delayed,7397,8.19
+"One-time Customer","On Time",82974,91.81

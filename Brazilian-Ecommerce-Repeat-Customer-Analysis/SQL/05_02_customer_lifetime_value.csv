@@ -1,0 +1,3 @@
+customer_type,customer_count,avg_customer_lifetime_value
+"Repeat Customer",2989,308.48
+"One-time Customer",92431,161.43

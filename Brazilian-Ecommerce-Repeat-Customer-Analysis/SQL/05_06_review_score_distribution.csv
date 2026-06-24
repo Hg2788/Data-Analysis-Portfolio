@@ -1,0 +1,11 @@
+customer_type,review_score,review_count,percentage
+"Repeat Customer",5,4069,60.30
+"Repeat Customer",4,1160,17.19
+"Repeat Customer",3,553,8.20
+"Repeat Customer",2,204,3.02
+"Repeat Customer",1,762,11.29
+"One-time Customer",5,53258,57.59
+"One-time Customer",4,17982,19.45
+"One-time Customer",3,7626,8.25
+"One-time Customer",2,2947,3.19
+"One-time Customer",1,10662,11.53
