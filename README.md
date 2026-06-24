@@ -57,4 +57,4 @@ Analysis of repeat customer behavior using the Brazilian E-commerce Olist Datase
 
 🔗 [Project README](./Brazilian-Ecommerce-Repeat-Customer-Analysis/README.md)
 
-📊 [Dashboard Preview](./Brazilian-Ecommerce-Repeat-Customer-Analysis/image/Repeat%20Customer%20Analysis%20Dashboard.png)
+📊 [Dashboard Preview](./Brazilian-Ecommerce-Repeat-Customer-Analysis/image/Repeat%20Customer%20Analysis_Dashboard.png)
