@@ -6,6 +6,8 @@ This project analyzes repeat customer behavior using the Brazilian E-commerce Ol
 
 The goal is to identify the characteristics of repeat customers, analyze purchasing patterns and customer value through SQL, and visualize key insights with an interactive Tableau dashboard.
 
+---
+
 ## Project Information
 
 * **Type:** Individual Database Course Project
