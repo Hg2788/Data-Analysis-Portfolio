@@ -6,6 +6,8 @@ This project analyzes factors affecting sleep quality using the Sleep Health and
 
 The goal is to identify key variables associated with sleep quality and visualize the findings through statistical analysis and dashboard development.
 
+---
+
 ## Project Information
 
 * **Type:** Team Project (3 Members)
