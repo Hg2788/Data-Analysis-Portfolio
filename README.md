@@ -36,6 +36,8 @@ Analysis of factors affecting sleep quality using the Sleep Health and Lifestyle
 
 📄 [Japanese Report](./Sleep-Health-Analysis/report/Sleep%20Health%20Analysis_Japanese%20Report.pdf)
 
+📊 [Dashboard Preview](./Sleep-Health-Analysis/images/Sleep_Health_Dashboard.png)
+
 <br>
 
 ### 🛒 Brazilian E-commerce Repeat Customer Analysis
