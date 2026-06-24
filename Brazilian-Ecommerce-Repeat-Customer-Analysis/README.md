@@ -113,6 +113,8 @@ Brazilian E-commerce Public Dataset by Olist
 
 **Visualization:** Tableau
 
+---
+
 ## Project Report
 
 📄 Japanese Report
