@@ -32,3 +32,21 @@ After the competition, I practiced Tableau and created a dashboard using the sam
 ![Dashboard](image/Repeat%20Customer%20Analysis_Dashboard.png)
 
 ---
+
+## Objectives
+
+* Identify the characteristics of repeat customers.
+* Compare purchasing behavior between repeat and one-time customers.
+* Analyze customer lifetime value (CLV), order value, and purchase frequency.
+* Evaluate customer experience through review scores and delivery performance.
+* Develop an interactive Tableau dashboard to visualize key business insights.
+
+---
+
+## Dataset
+
+### Source
+
+Brazilian E-commerce Public Dataset by Olist
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
