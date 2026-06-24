@@ -30,7 +30,7 @@ After the competition, I practiced Tableau and created a dashboard using the sam
 
 ### Dashboard Preview
 
-![Dashboard](visualization/Sleep_Health_Dashboard.png)
+![Dashboard](image/Sleep_Health_Dashboard.png)
 
 ---
 
