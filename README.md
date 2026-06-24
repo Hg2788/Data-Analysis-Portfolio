@@ -38,8 +38,19 @@ Analysis of factors affecting sleep quality using the Sleep Health and Lifestyle
 
 ---
 
-### 🚧 Upcoming Projects
+## 🛒 Brazilian E-commerce Repeat Customer Analysis
 
-* SQL Data Analysis Project
+Analysis of repeat customer behavior using the Brazilian E-commerce Olist Dataset.
 
-More projects will be added soon.
+**Tools:** SQL, MySQL, Tableau
+
+**Highlights**
+
+* Customer Segmentation
+* Repeat Purchase Rate Analysis
+* Customer Lifetime Value Analysis
+* Review & Delivery Experience Analysis
+* Product Category and Regional Analysis
+* Tableau Dashboard
+
+🔗 [Project README](./Brazilian-Ecommerce-Repeat-Customer-Analysis/README.md)
